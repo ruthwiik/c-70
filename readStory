@@ -1,0 +1,17 @@
+import React from 'react';
+import {styleSheet,view,text} from 'react-native';
+export default class readStory extends react.component
+render(){
+    return(
+        <view {style=styles.container}>
+        <text>read story</text>
+        </view>
+    );
+}
+}
+const styles=StyleSheet.create({
+    container:{
+
+
+
+
